@@ -15,8 +15,12 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
+    align-self: center;
+    box-shadow: #0c112b 2px 5px 5px;
 }
-
+.course-link{
+    color : #d5d8e6;
+}
 body {
     margin: 0;
 }
